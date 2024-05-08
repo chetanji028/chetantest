@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chetantest/static/css/main.e6c13ad2.css",
+    "main.js": "/chetantest/static/js/main.94fa7e4e.js",
+    "static/js/453.0e07dc94.chunk.js": "/chetantest/static/js/453.0e07dc94.chunk.js",
+    "index.html": "/chetantest/index.html",
+    "main.e6c13ad2.css.map": "/chetantest/static/css/main.e6c13ad2.css.map",
+    "main.94fa7e4e.js.map": "/chetantest/static/js/main.94fa7e4e.js.map",
+    "453.0e07dc94.chunk.js.map": "/chetantest/static/js/453.0e07dc94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.94fa7e4e.js"
+  ]
+}
